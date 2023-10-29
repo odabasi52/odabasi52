@@ -10,6 +10,8 @@ I am attending CTFs and developing Tools, moreover solving Hackerrank problems.
 <!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,vim,c,cpp,py,html,mysql,js,java,git,bash,powershell" />
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=dart,flutter,cs,unity,godot" />
 </p>
 
