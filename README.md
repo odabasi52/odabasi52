@@ -2,8 +2,8 @@
 
 <h2> Pentester, Cybersecurity Analyst and Software Developer </h2>
 
-I am studying computer engineering and dedicated myself to become a cybersecurity expert.
-I am attending CTFs and developing Tools, moreover solving Hackerrank problems.
+- I am studying computer engineering and dedicated myself to become a cybersecurity expert.
+- I am attending CTFs and developing Tools, moreover solving Hackerrank problems.
 
 <h2> 🧰 Languages and Tools </h2>
 <!--https://github.com/tandpfun/skill-icons-->
