@@ -8,8 +8,5 @@
 <h2> 🧰 Languages and Tools </h2>
 <!--https://github.com/tandpfun/skill-icons-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,vim,c,cpp,py,html,mysql,js,java,git,bash,powershell" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,cs,unity,godot" />
+    <img src="https://skillicons.dev/icons?i=linux,vim,c,cpp,py,html,mysql,js,java,git,bash,powershell,dart,flutter,cs,unity,godot"/>
 </p>
